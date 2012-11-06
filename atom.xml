@@ -4,7 +4,7 @@
   <title><![CDATA[SGVLUG]]></title>
   <link href="http://www.sgvlug.org/atom.xml" rel="self"/>
   <link href="http://www.sgvlug.org/"/>
-  <updated>2012-09-27T16:19:41-07:00</updated>
+  <updated>2012-11-05T18:45:44-08:00</updated>
   <id>http://www.sgvlug.org/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Open Discussion]]></title>
+    <link href="http://www.sgvlug.org/blog/2012/11/05/open-discussion/"/>
+    <updated>2012-11-05T18:36:00-08:00</updated>
+    <id>http://www.sgvlug.org/blog/2012/11/05/open-discussion</id>
+    <content type="html"><![CDATA[<p>There is no scheduled speaker. We will have open discussion, continued afterwards at Burger Continental.</p>
+
+<p><strong><em>Please note that we are in a different room this month.</em></strong></p>
+
+<p>Speaker: You! <br/>
+Date: Thursday, November 8, 2012 @ 7 pm <br/>
+Location: Caltech - Downs 119</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[strace: Practical Application Troubleshooting...]]></title>
@@ -398,28 +413,6 @@ Location: 107 Downs Lab</p>
 
 <p>Date: Thursday May 12, 2011 7:00 PM - 9:00 PM                                  <br/>
 Location: Downs 107</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[April 2011 Meeting]]></title>
-    <link href="http://www.sgvlug.org/blog/2011/04/14/april-2011-meeting/"/>
-    <updated>2011-04-14T00:00:00-07:00</updated>
-    <id>http://www.sgvlug.org/blog/2011/04/14/april-2011-meeting</id>
-    <content type="html"><![CDATA[<p>Topic: Todd CC will discuss the impact of a world with rapidly changing      <br/>
-technologies, radical fluctuations in staffing needs, and changes in the     <br/>
-employer/employee dynamic and how you can be best prepared for your next job <br/>
-and/or career. During this presentation, the relatively new catchphrase      <br/>
-&#8220;DevOps&#8221; will be discussed as it pertains to job advancement and career      <br/>
-opportunities.</p>
-
-<p>Presenter: Cranston-Cuebas, Todd With 13 years of experience in technology   <br/>
-staffing in Los Angeles, Todd has been through the dot-com boom and bust, the<br/>
-housing boom and subsequent recession, and through it all, has kept a close  <br/>
-eye on employment trends in technology.</p>
-
-<p>Date: Thursday April 14, 2011 7:00 PM - 9:00 PM                                <br/>
-Location: 107 Downs Lab</p>
 ]]></content>
   </entry>
   
