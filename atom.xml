@@ -4,7 +4,7 @@
   <title><![CDATA[SGVLUG]]></title>
   <link href="http://www.sgvlug.org/atom.xml" rel="self"/>
   <link href="http://www.sgvlug.org/"/>
-  <updated>2012-11-05T18:49:34-08:00</updated>
+  <updated>2012-12-03T10:24:17-08:00</updated>
   <id>http://www.sgvlug.org/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -12,6 +12,43 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Rebuilding an Entreprise Class Linux Infrastructure in Under an Hour]]></title>
+    <link href="http://www.sgvlug.org/blog/2012/12/03/rebuilding-an-entreprise-class-linux-infrastructure-in-under-an-hour/"/>
+    <updated>2012-12-03T10:16:00-08:00</updated>
+    <id>http://www.sgvlug.org/blog/2012/12/03/rebuilding-an-entreprise-class-linux-infrastructure-in-under-an-hour</id>
+    <content type="html"><![CDATA[<p>A modern day Linux Infrastructure should be flexible, scalable and able to deal
+with the constant changes any business will require.  Automation is key to a
+reliable and consistence server infrastructure, Automation also allows for easy
+integration of new changes.</p>
+
+<p>The DevOps movement melds two traditionally siloed teams; Application
+Developers and Operations Engineers.  Writing infrastructure as code presents a
+number of challenges and potential pitfalls, Operations Engineers need to write
+code (something they may not be familar with) and Developers need to have a
+strong understanding of the system (many Developers don&#8217;t want to be considered
+with anything other than web applications).  There are several major projects
+related purely to the management of infrastructure as code.</p>
+
+<p>We will examine Opscode Chef and make a strong use case for the implementation
+of Opscode Chef in a Linux Environment.  David will demonstrate many techniques
+to utilize Chef quickly and efficiently to minimize the time of implementation.
+Although Opscode Chef can be run on Solaris, FreeBSD and even Windows, the
+presentation will discuss Linux and only Linux.  David will also discuss the
+techniques to operate Chef on various Linux Distros which can provide a layer
+of abstraction from the package management systems (apt &amp; yum).  Finally David
+will discuss how Chef can be used to rebuild an Entire infrastructure
+(regardless of size or complexity) in a time previous thought impossible.  The
+only limitation in speed of deployment is the hardware.</p>
+
+<p><strong><em>Please note that we are in a different room this month.</em></strong></p>
+
+<p>Speaker:  David Rodriguez <br/>
+Date: Thursday, December 13th, 2012 @ 7 pm <br/>
+Location: Caltech - Downs 119</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Open Discussion]]></title>
@@ -401,18 +438,6 @@ behaviors affects their energy use and in turn their energy bill.&#8221;</p>
 
 <p>Date: Thursday June 9, 2011 7:00 PM - 9:00 PM                                  <br/>
 Location: 107 Downs Lab</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[May 2011 Meeting]]></title>
-    <link href="http://www.sgvlug.org/blog/2011/05/12/may-2011-meeting/"/>
-    <updated>2011-05-12T00:00:00-07:00</updated>
-    <id>http://www.sgvlug.org/blog/2011/05/12/may-2011-meeting</id>
-    <content type="html"><![CDATA[<p>Monthly Meeting.</p>
-
-<p>Date: Thursday May 12, 2011 7:00 PM - 9:00 PM                                  <br/>
-Location: Downs 107</p>
 ]]></content>
   </entry>
   
