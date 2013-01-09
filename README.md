@@ -9,6 +9,7 @@ The "master" branch is the Jekyll processed version of the site. It is the branc
      git clone git@github.com:sgvlug/sgvlug.github.com.git
      git checkout source # checkout the branch where you make changes
      rake setup_github_pages[git@github.com:sgvlug/sgvlug.github.com.git] # setup Octopress to enable deploy task
+     cd _deploy ; git pull origin master ; cd .. # pull existing generated pages
 
 You can [add content](http://octopress.org/docs/blogging/) with one of these two commands:
 
