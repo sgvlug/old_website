@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[SGVLUG]]></title>
-  <link href="http://www.sgvlug.org/atom.xml" rel="self"/>
-  <link href="http://www.sgvlug.org/"/>
-  <updated>2013-01-12T09:34:03-08:00</updated>
-  <id>http://www.sgvlug.org/</id>
+  <link href="http://sgvlug.github.com/atom.xml" rel="self"/>
+  <link href="http://sgvlug.github.com/"/>
+  <updated>2013-02-09T21:27:10-08:00</updated>
+  <id>http://sgvlug.github.com/</id>
   <author>
     <name><![CDATA[]]></name>
     
@@ -14,10 +14,28 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Vim Tips and Tricks: A Roundtable Discussion]]></title>
+    <link href="http://sgvlug.github.com/blog/2013/02/09/vim-tips-and-tricks/"/>
+    <updated>2013-02-09T21:12:00-08:00</updated>
+    <id>http://sgvlug.github.com/blog/2013/02/09/vim-tips-and-tricks</id>
+    <content type="html"><![CDATA[<p>Lan Dang will demonstrate some of her favorite tricks for the Vim text editor as well as useful vi key bindings. She welcomes everyone to contribute their own tips.  At the end, we hope to gather our tips and use cases into a document, which will be linked through the website.</p>
+
+<p>Whether you use Vim as seldom as possible or you use it every day, you will learn something from this session.</p>
+
+<p><strong>Speaker:</strong> Lan Dang + SGVLUG <br/>
+<strong>Date:</strong> Thursday February 10th, 2013 @ 7 pm <br/>
+<strong>Location:</strong> Caltech - Downs 107. <br/>
+The Downs building is across from the tennis  courts on California at Arden.</p>
+
+<p><strong>Bio:</strong> Lan Dang spends the majority of her working hours monitoring and troubleshooting data processing systems on Linux-based computer clusters.  She has accumulated a number of tips and tricks to deal with the command line, including extensive use of vim and vi key bindings.</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Proxies and Tunnels to Freedom]]></title>
-    <link href="http://www.sgvlug.org/blog/2013/01/08/proxies-and-tunnels-to-freedom/"/>
+    <link href="http://sgvlug.github.com/blog/2013/01/08/proxies-and-tunnels-to-freedom/"/>
     <updated>2013-01-08T07:38:00-08:00</updated>
-    <id>http://www.sgvlug.org/blog/2013/01/08/proxies-and-tunnels-to-freedom</id>
+    <id>http://sgvlug.github.com/blog/2013/01/08/proxies-and-tunnels-to-freedom</id>
     <content type="html"><![CDATA[<p>Since the dawn of the internet, men have tried to restrict the freedoms of other men. Amongst those bound by the restrictions of the technocracy, enlightened individuals created technologies to sidestep the restrictions placed upon them. These technologies, although effective, remain cryptic to the bound masses of the technologically illiterate.  What follow is a brief introduction to ssh tunnels and proxies&#8230;</p>
 
 <p>Bio:  Michael Starch was born in the far-frozen Northlands of the American Midwest.  After being enlighten through a university education in Computer Engineering he set sail for the warm coasts of the Californian Southland.  He is currently employed and has yet to die.</p>
@@ -32,10 +50,15 @@ Location: Caltech - Downs 107</p>
   
   <entry>
     <title type="html"><![CDATA[Rebuilding an Enterprise Class Linux Infrastructure in Under an Hour]]></title>
-    <link href="http://www.sgvlug.org/blog/2012/12/03/rebuilding-an-enterprise-class-linux-infrastructure-in-under-an-hour/"/>
+    <link href="http://sgvlug.github.com/blog/2012/12/03/rebuilding-an-enterprise-class-linux-infrastructure-in-under-an-hour/"/>
     <updated>2012-12-03T10:16:00-08:00</updated>
-    <id>http://www.sgvlug.org/blog/2012/12/03/rebuilding-an-enterprise-class-linux-infrastructure-in-under-an-hour</id>
-    <content type="html"><![CDATA[<p><strong><em>Please note that we are in a different room this month. Signs will be posted, but please check out the directions given under Location:</em></strong></p>
+    <id>http://sgvlug.github.com/blog/2012/12/03/rebuilding-an-enterprise-class-linux-infrastructure-in-under-an-hour</id>
+    <content type="html"><![CDATA[<iframe width="960" height="720" src="http://www.youtube.com/embed/WwtgfQJ0MzI" frameborder="0" allowfullscreen></iframe>
+
+
+<p><a href="http://sgvlug.github.com/slides/201212_David_Rodriguez_on_Chef.pdf">Slides in PDF</a></p>
+
+<p><strong><em>Please note that we are in a different room this month. Signs will be posted, but please check out the directions given under Location:</em></strong></p>
 
 <p>A modern day Linux Infrastructure should be flexible, scalable and able to deal
 with the constant changes any business will require.  Automation is key to a
@@ -69,9 +92,9 @@ Location: Caltech - Lauritsen 269.  Lauritsen is connected to Downs; the room is
   
   <entry>
     <title type="html"><![CDATA[Open Discussion]]></title>
-    <link href="http://www.sgvlug.org/blog/2012/11/05/open-discussion/"/>
+    <link href="http://sgvlug.github.com/blog/2012/11/05/open-discussion/"/>
     <updated>2012-11-05T18:36:00-08:00</updated>
-    <id>http://www.sgvlug.org/blog/2012/11/05/open-discussion</id>
+    <id>http://sgvlug.github.com/blog/2012/11/05/open-discussion</id>
     <content type="html"><![CDATA[<p>There is no scheduled speaker. We will have open discussion, continued afterwards at Burger Continental.</p>
 
 <p><strong><em>Please note that we are in a different room this month.</em></strong></p>
@@ -84,9 +107,9 @@ Location: Caltech - Downs 119</p>
   
   <entry>
     <title type="html"><![CDATA[strace: Practical Application Troubleshooting...]]></title>
-    <link href="http://www.sgvlug.org/blog/2012/10/11/strace/"/>
+    <link href="http://sgvlug.github.com/blog/2012/10/11/strace/"/>
     <updated>2012-10-11T00:00:00-07:00</updated>
-    <id>http://www.sgvlug.org/blog/2012/10/11/strace</id>
+    <id>http://sgvlug.github.com/blog/2012/10/11/strace</id>
     <content type="html"><![CDATA[<p>strace: Practical Application Troubleshooting&#8230;<br/>
 using the tool we all love to hate.</p>
 
@@ -108,9 +131,9 @@ Location: Caltech - Downs 107</p>
   
   <entry>
     <title type="html"><![CDATA[SGVHAK SIG Kickoff]]></title>
-    <link href="http://www.sgvlug.org/blog/2012/09/20/raspberry-pi-etc-sig/"/>
+    <link href="http://sgvlug.github.com/blog/2012/09/20/raspberry-pi-etc-sig/"/>
     <updated>2012-09-20T00:00:00-07:00</updated>
-    <id>http://www.sgvlug.org/blog/2012/09/20/raspberry-pi-etc-sig</id>
+    <id>http://sgvlug.github.com/blog/2012/09/20/raspberry-pi-etc-sig</id>
     <content type="html"><![CDATA[<p><em>If you are interested in the group, please sign up for the [SGVHAK mailing list] (http://sgvlug.org/mailman/listinfo/hak &#8220;SGVHAK Mailing List Sign Up&#8221;).  We will continue to crosspost announcements to the SGVLUG mailing list. We are in the process of setting up a website or subpage.</em></p>
 
 <p>Do you like working on hardware projects?  Did you just get a Raspberry Pi/Arduino/Kinect with the intentions of doing something cool?  Did you wish that there was a local meetup group where you can meet up with like-minded folks and actually make progress with your projects?</p>
@@ -126,9 +149,9 @@ Location: Caltech - Downs 119 (around the corner from usual LUG meeting room)</p
   
   <entry>
     <title type="html"><![CDATA[Cloning SysAdmins with the Cloud and Juju]]></title>
-    <link href="http://www.sgvlug.org/blog/2012/09/13/cloning_sysadmins_with_the_cloud_and_juju/"/>
+    <link href="http://sgvlug.github.com/blog/2012/09/13/cloning_sysadmins_with_the_cloud_and_juju/"/>
     <updated>2012-09-13T00:00:00-07:00</updated>
-    <id>http://www.sgvlug.org/blog/2012/09/13/cloning_sysadmins_with_the_cloud_and_juju</id>
+    <id>http://sgvlug.github.com/blog/2012/09/13/cloning_sysadmins_with_the_cloud_and_juju</id>
     <content type="html"><![CDATA[<p>Its time to face the music: There&#8217;s only a couple guys in Ops, and a
 lot of infrastructure to set up and it was all due yesterday. If only
 you could clone all the sysadmins of the world to get all of their
@@ -151,9 +174,9 @@ Location: Caltech - Downs 107</p>
   
   <entry>
     <title type="html"><![CDATA[Kinect Programming]]></title>
-    <link href="http://www.sgvlug.org/blog/2012/08/09/kinect-programming/"/>
+    <link href="http://sgvlug.github.com/blog/2012/08/09/kinect-programming/"/>
     <updated>2012-08-09T00:00:00-07:00</updated>
-    <id>http://www.sgvlug.org/blog/2012/08/09/kinect-programming</id>
+    <id>http://sgvlug.github.com/blog/2012/08/09/kinect-programming</id>
     <content type="html"><![CDATA[<p>Doug Vargas will talk about programming for the Kinect motion sensing input device by Microsoft.</p>
 
 <p>Speaker: Doug Vargas <br/>
@@ -164,9 +187,9 @@ Location: Caltech - Downs 107</p>
   
   <entry>
     <title type="html"><![CDATA[Open Discussion]]></title>
-    <link href="http://www.sgvlug.org/blog/2012/07/12/open-discussion/"/>
+    <link href="http://sgvlug.github.com/blog/2012/07/12/open-discussion/"/>
     <updated>2012-07-12T00:00:00-07:00</updated>
-    <id>http://www.sgvlug.org/blog/2012/07/12/open-discussion</id>
+    <id>http://sgvlug.github.com/blog/2012/07/12/open-discussion</id>
     <content type="html"><![CDATA[<p>No scheduled speaker. Open discussion continued afterwards at Burger Continental.</p>
 
 <p>We will have a brief overview of <a href="http://git-scm.com">Git</a>.</p>
@@ -179,9 +202,9 @@ Location: Caltech - Downs 107</p>
   
   <entry>
     <title type="html"><![CDATA[Build your own cloud hosted social network with Ruby on Rails, Git and Heroku]]></title>
-    <link href="http://www.sgvlug.org/blog/2012/06/14/cloud-hosted-social-network/"/>
+    <link href="http://sgvlug.github.com/blog/2012/06/14/cloud-hosted-social-network/"/>
     <updated>2012-06-14T00:00:00-07:00</updated>
-    <id>http://www.sgvlug.org/blog/2012/06/14/cloud-hosted-social-network</id>
+    <id>http://sgvlug.github.com/blog/2012/06/14/cloud-hosted-social-network</id>
     <content type="html"><![CDATA[<p>Ruby on Rails is an open source framework for developing database driven websites.  Git is a source control management tool.  Heroku is web hosting in the cloud.  In this talk Homan Chou and David Ferril will give a brief overview of each of these tools and give a case study of a real
 working social network.</p>
 
@@ -193,9 +216,9 @@ Location: Caltech - Downs 107</p>
   
   <entry>
     <title type="html"><![CDATA[Rasberry Pi]]></title>
-    <link href="http://www.sgvlug.org/blog/2012/05/10/may-2012-raspberry-pi/"/>
+    <link href="http://sgvlug.github.com/blog/2012/05/10/may-2012-raspberry-pi/"/>
     <updated>2012-05-10T00:00:00-07:00</updated>
-    <id>http://www.sgvlug.org/blog/2012/05/10/may-2012-raspberry-pi</id>
+    <id>http://sgvlug.github.com/blog/2012/05/10/may-2012-raspberry-pi</id>
     <content type="html"><![CDATA[<p>The Raspberry Pi is a $35, 256MB educational computer that runs Linux.
 Dan Kegel will demonstrate how the Pi can be used as a
 simple sensor network node, reporting observed Bluetooth
@@ -209,9 +232,9 @@ Location: Caltech - Downs 107</p>
   
   <entry>
     <title type="html"><![CDATA[Python Web Frameworks - Django and Pylons]]></title>
-    <link href="http://www.sgvlug.org/blog/2012/04/12/april-2012-python-web-frameworks-django-and-pylons/"/>
+    <link href="http://sgvlug.github.com/blog/2012/04/12/april-2012-python-web-frameworks-django-and-pylons/"/>
     <updated>2012-04-12T00:00:00-07:00</updated>
-    <id>http://www.sgvlug.org/blog/2012/04/12/april-2012-python-web-frameworks-django-and-pylons</id>
+    <id>http://sgvlug.github.com/blog/2012/04/12/april-2012-python-web-frameworks-django-and-pylons</id>
     <content type="html"><![CDATA[<p>The two dominant python-based web frameworks are Django and Pylons. They can be used to deploy web applications such as news sites, online ticket tracking systems, or wikis. An overview and comparison of Django and the recently reinvented Pylons Project will be presented. Individual dependencies of the Pylons Project will be described including the Pyramid WSGI engine, the SQLAlchemy database Object Relational Mapper (ORM), and the Mako HTML template generator. A very simple blog engine will be implemented as an instructive example.</p>
 
 <p>Speaker: Braddock Gaskill (braddock .at. braddock.com) <br/>
@@ -222,9 +245,9 @@ Location: Caltech - Downs 107</p>
   
   <entry>
     <title type="html"><![CDATA[March 2012 Meeting]]></title>
-    <link href="http://www.sgvlug.org/blog/2012/03/08/march-2012-meeting/"/>
+    <link href="http://sgvlug.github.com/blog/2012/03/08/march-2012-meeting/"/>
     <updated>2012-03-08T00:00:00-08:00</updated>
-    <id>http://www.sgvlug.org/blog/2012/03/08/march-2012-meeting</id>
+    <id>http://sgvlug.github.com/blog/2012/03/08/march-2012-meeting</id>
     <content type="html"><![CDATA[<p>Unity is the new desktop environment for Ubuntu, having first premiered in   <br/>
 version 11.04, significantly enhanced with version 11.10, and very much the  <br/>
 cornerstone of the upcoming 12.04 release.</p>
@@ -265,9 +288,9 @@ Location: Downs 107</p>
   
   <entry>
     <title type="html"><![CDATA[February 2012 Meeting]]></title>
-    <link href="http://www.sgvlug.org/blog/2012/02/09/february-2012-meeting/"/>
+    <link href="http://sgvlug.github.com/blog/2012/02/09/february-2012-meeting/"/>
     <updated>2012-02-09T00:00:00-08:00</updated>
-    <id>http://www.sgvlug.org/blog/2012/02/09/february-2012-meeting</id>
+    <id>http://sgvlug.github.com/blog/2012/02/09/february-2012-meeting</id>
     <content type="html"><![CDATA[<p>Matt Cambell and Miguel Hernandez will talk about Drupal and their experiences
 with using it to revamp the SGVLUG website.</p>
 
@@ -278,9 +301,9 @@ Location: Downs 107</p>
   
   <entry>
     <title type="html"><![CDATA[January 2012 Meeting]]></title>
-    <link href="http://www.sgvlug.org/blog/2012/01/12/january-2012-meeting/"/>
+    <link href="http://sgvlug.github.com/blog/2012/01/12/january-2012-meeting/"/>
     <updated>2012-01-12T00:00:00-08:00</updated>
-    <id>http://www.sgvlug.org/blog/2012/01/12/january-2012-meeting</id>
+    <id>http://sgvlug.github.com/blog/2012/01/12/january-2012-meeting</id>
     <content type="html"><![CDATA[<p>Topic: Horror Stories and Trouble shooting!</p>
 
 <p>The idea is to have a fun meeting with some scary stories and trouble shooting
@@ -295,9 +318,9 @@ Location: Downs 107</p>
   
   <entry>
     <title type="html"><![CDATA[December 2011 Meeting]]></title>
-    <link href="http://www.sgvlug.org/blog/2011/12/08/december-2011-meeting/"/>
+    <link href="http://sgvlug.github.com/blog/2011/12/08/december-2011-meeting/"/>
     <updated>2011-12-08T00:00:00-08:00</updated>
-    <id>http://www.sgvlug.org/blog/2011/12/08/december-2011-meeting</id>
+    <id>http://sgvlug.github.com/blog/2011/12/08/december-2011-meeting</id>
     <content type="html"><![CDATA[<p>Topic: Virtual Private Servers: On a Budget</p>
 
 <p>Christefano who was going to present Redmine is unavailable so we will try to<br/>
@@ -318,9 +341,9 @@ Location: Downs 107</p>
   
   <entry>
     <title type="html"><![CDATA[November 2011 Meeting]]></title>
-    <link href="http://www.sgvlug.org/blog/2011/11/10/november-2011-meeting/"/>
+    <link href="http://sgvlug.github.com/blog/2011/11/10/november-2011-meeting/"/>
     <updated>2011-11-10T00:00:00-08:00</updated>
-    <id>http://www.sgvlug.org/blog/2011/11/10/november-2011-meeting</id>
+    <id>http://sgvlug.github.com/blog/2011/11/10/november-2011-meeting</id>
     <content type="html"><![CDATA[<p>Topic: VPN: Keep the Spies away!</p>
 
 <p>PPTP (with a demo on DDWRT) along with OpenVPN, L2TP, and IPsec Presenter: Dan
@@ -333,9 +356,9 @@ Location: Downs 107</p>
   
   <entry>
     <title type="html"><![CDATA[October 2011 Meeting]]></title>
-    <link href="http://www.sgvlug.org/blog/2011/10/13/october-2011-meeting/"/>
+    <link href="http://sgvlug.github.com/blog/2011/10/13/october-2011-meeting/"/>
     <updated>2011-10-13T00:00:00-07:00</updated>
-    <id>http://www.sgvlug.org/blog/2011/10/13/october-2011-meeting</id>
+    <id>http://sgvlug.github.com/blog/2011/10/13/october-2011-meeting</id>
     <content type="html"><![CDATA[<p>SGVLUG meeting 9/8 7-9pm</p>
 
 <p>Command Line &#8220;Tips and Tricks&#8221;</p>
@@ -357,9 +380,9 @@ Location: Downs 107</p>
   
   <entry>
     <title type="html"><![CDATA[September 2011 Meeting]]></title>
-    <link href="http://www.sgvlug.org/blog/2011/09/08/september-2011-meeting/"/>
+    <link href="http://sgvlug.github.com/blog/2011/09/08/september-2011-meeting/"/>
     <updated>2011-09-08T00:00:00-07:00</updated>
-    <id>http://www.sgvlug.org/blog/2011/09/08/september-2011-meeting</id>
+    <id>http://sgvlug.github.com/blog/2011/09/08/september-2011-meeting</id>
     <content type="html"><![CDATA[<p>SGVLUG meeting 9/8 7-9pm</p>
 
 <p>Topic: Disaster Recovery and Backups in the era of the cloud Presentation and<br/>
@@ -374,9 +397,9 @@ Location: Downs 107</p>
   
   <entry>
     <title type="html"><![CDATA[August 2011 Meeting]]></title>
-    <link href="http://www.sgvlug.org/blog/2011/08/11/august-2011-meeting/"/>
+    <link href="http://sgvlug.github.com/blog/2011/08/11/august-2011-meeting/"/>
     <updated>2011-08-11T00:00:00-07:00</updated>
-    <id>http://www.sgvlug.org/blog/2011/08/11/august-2011-meeting</id>
+    <id>http://sgvlug.github.com/blog/2011/08/11/august-2011-meeting</id>
     <content type="html"><![CDATA[<p>Monthly Meeting.</p>
 
 <h2>Topic: Virtualmin / Webmin + Brief review Defcon/Blackhat:                     </h2>
@@ -405,29 +428,6 @@ training http://www.larks.la</p>
 
 <p>Date: Thursday August 11, 2011 7:00 PM - 9:00 PM                               <br/>
 Location: Downs 107</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[July 2011 Meeting]]></title>
-    <link href="http://www.sgvlug.org/blog/2011/07/14/july-2011-meeting/"/>
-    <updated>2011-07-14T00:00:00-07:00</updated>
-    <id>http://www.sgvlug.org/blog/2011/07/14/july-2011-meeting</id>
-    <content type="html"><![CDATA[<p>Monthly meeting.</p>
-
-<p>APRS is a amateur radio network where small packets of data such as position <br/>
-reports, messages or telemetry are transmitted to other radio operators and  <br/>
-eventually propagated to the Internet.                                       <br/>
-http://en.wikipedia.org/wiki/Automatic_Packet_Reporting_System</p>
-
-<p>The proliferation of small, low power and easily hackable ARM devices opens up
-many possibilities for setting up unobtrusive computing solutions. Amateur   <br/>
-radio operator and long time Linux user James McDuffie (K6JLM) explores using<br/>
-the Seagate GoFlex Net along with surplus amateur radio equipment to build a <br/>
-APRS digipeater for helping to relay packets both over RF and to the Internet.</p>
-
-<p>Date: Thursday July 14, 2011 7:00 PM - 9:00 PM                                 <br/>
-Location: 107 Downs Lab</p>
 ]]></content>
   </entry>
   
