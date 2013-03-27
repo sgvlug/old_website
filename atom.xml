@@ -4,7 +4,7 @@
   <title><![CDATA[SGVLUG]]></title>
   <link href="http://sgvlug.github.com/atom.xml" rel="self"/>
   <link href="http://sgvlug.github.com/"/>
-  <updated>2013-03-14T19:19:55-07:00</updated>
+  <updated>2013-03-27T15:01:52-07:00</updated>
   <id>http://sgvlug.github.com/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -12,6 +12,32 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The Internet-in-a-Box Project]]></title>
+    <link href="http://sgvlug.github.com/2013/03/27/the-internet-in-a-box-project/"/>
+    <updated>2013-03-27T14:56:00-07:00</updated>
+    <id>http://sgvlug.github.com/2013/03/27/the-internet-in-a-box-project</id>
+    <content type="html"><![CDATA[<p>We are building the Internet-in-a-Box - A small, inexpensive device which
+provides essential Internet resources without any Internet connection.  It
+provides a local copy of half a terabyte of the world&#8217;s Free information.</p>
+
+<p>The device includes Wikipedia in a dozen languages, a library of 40,000
+e-books, most of the world&#8217;s open source software and source code, hundreds of
+hours of instructional videos, and world-wide mapping down to street level.</p>
+
+<p>We can deploy a &#8220;knowledge hotspot&#8221; anywhere in the world - even under solar
+power.</p>
+
+<p>This Open Source project is being developed by SGVLUG and SGVHAK
+members.</p>
+
+<p><strong>Speaker:</strong> Braddock Gaskill (braddock .at. braddock.com) <br/>
+<strong>Date:</strong> Thursday April 11th, 2013 @ 7 pm <br/>
+<strong>Location:</strong> Caltech - Downs 107. <br/>
+The Downs building is across from the tennis  courts on California at Arden.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Wireless Security and DD-WRT]]></title>
@@ -390,23 +416,6 @@ newbie or a command line guru, you&#8217;ll probably pick up something useful fo
 the next time you&#8217;re at the command line.</p>
 
 <p>Date: Thursday October 13, 2011 7:00 PM - 9:00 PM                              <br/>
-Location: Downs 107</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[September 2011 Meeting]]></title>
-    <link href="http://sgvlug.github.com/2011/09/08/september-2011-meeting/"/>
-    <updated>2011-09-08T00:00:00-07:00</updated>
-    <id>http://sgvlug.github.com/2011/09/08/september-2011-meeting</id>
-    <content type="html"><![CDATA[<p>SGVLUG meeting 9/8 7-9pm</p>
-
-<p>Topic: Disaster Recovery and Backups in the era of the cloud Presentation and<br/>
-Discussion</p>
-
-<p>Please bring your questions, opinions, and solutions for discussion!</p>
-
-<p>Date: Thursday September 8, 2011 7:00 PM - 9:00 PM                             <br/>
 Location: Downs 107</p>
 ]]></content>
   </entry>
