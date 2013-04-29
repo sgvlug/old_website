@@ -4,7 +4,7 @@
   <title><![CDATA[SGVLUG]]></title>
   <link href="http://sgvlug.github.com/atom.xml" rel="self"/>
   <link href="http://sgvlug.github.com/"/>
-  <updated>2013-03-27T15:01:52-07:00</updated>
+  <updated>2013-04-29T16:26:50-07:00</updated>
   <id>http://sgvlug.github.com/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -12,6 +12,55 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Redmine]]></title>
+    <link href="http://sgvlug.github.com/2013/04/29/redmine/"/>
+    <updated>2013-04-29T12:00:00-07:00</updated>
+    <id>http://sgvlug.github.com/2013/04/29/redmine</id>
+    <content type="html"><![CDATA[<p>Christefano Reyes presents on Redmine, a free and open source project
+management and issue tracking system written in Ruby on Rails. Prior to
+this presentation, attendees are welcome and encouraged to
+<a href="http://www.redmine.org">download it</a>, use a
+<a href="http://demo.redmine.org">shared demo</a>
+or try a private, <a href="http://www.webenabled.com">one-click install</a>.</p>
+
+<p>Popular with (but certainly not limited to) the Ruby on Rails developer
+community, Redmine is a full-featured system used by companies, open
+source projects, governmental agencies, and individual developers around
+the world. Big users of Redmine include open source projects such as
+Ruby, Puppet, Gentoo, Lighttpd, TYPO3, and the Redmine project itself.</p>
+
+<p>This presentation will focus on how Redmine is used from the
+perspectives of developers, tech leads and project managers at a
+software development company. Features that will be demonstrated include:</p>
+
+<ul>
+<li>User and group management;</li>
+<li>Feeds, email notifications and web-to-mail and mail-to-web support;</li>
+<li>Per-project role-based permissions,</li>
+<li>Time tracking and reports; including calendaring and Gantt charts;</li>
+<li>Issue workflow management across multiple roles;</li>
+<li>Redmine&#8217;s plug-in architecture and growing developer ecosystem;</li>
+<li>Custom fields for extending user accounts, time entries, and other
+data structures;</li>
+<li>Redmine&#8217;s REST API and how it integrates with third-party platforms.</li>
+</ul>
+
+
+<p>Christefano is one of the founders of Exaltation of Larks, a Drupal
+strategy, development and training company; and Droplabs, a coworking
+space and classroom near Downtown Los Angeles. As an advocate of open
+source software, he helps organize meetups and conferences all over the
+Greater Los Angeles Area. In his spare time, he trains as an amateur
+acrobat and gymnast at the Original Muscle Beach in Santa Monica.</p>
+
+<p><strong>Speaker:</strong> Christefano Reyes <br/>
+<strong>Date:</strong> Thursday May 9th, 2013 @ 7 pm <br/>
+<strong>Location:</strong> Caltech - Downs 107. <br/>
+The Downs building is across from the tennis  courts on California at Arden.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The Internet-in-a-Box Project]]></title>
@@ -392,30 +441,6 @@ Location: Downs 107</p>
 Buthusiem</p>
 
 <p>Date: Thursday November 10, 2011 7:00 PM - 9:00 PM                             <br/>
-Location: Downs 107</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[October 2011 Meeting]]></title>
-    <link href="http://sgvlug.github.com/2011/10/13/october-2011-meeting/"/>
-    <updated>2011-10-13T00:00:00-07:00</updated>
-    <id>http://sgvlug.github.com/2011/10/13/october-2011-meeting</id>
-    <content type="html"><![CDATA[<p>SGVLUG meeting 9/8 7-9pm</p>
-
-<p>Command Line &#8220;Tips and Tricks&#8221;</p>
-
-<p>Lan Dang spends the majority of her working hours monitoring and             <br/>
-troubleshooting data processing systems on Linux-based computer clusters. She<br/>
-has accumulated a number of tips and tricks to deal with the command line. Her
-arsenal includes: GNU screen, awk, sed, shell scripting, remote ssh command  <br/>
-execution, bash command history, and a variety of system utilities. This talk<br/>
-will cover useful one-liners and the small set of useful commands that will  <br/>
-get you started using these tools or using them in new ways. Whether you&#8217;re a<br/>
-newbie or a command line guru, you&#8217;ll probably pick up something useful for  <br/>
-the next time you&#8217;re at the command line.</p>
-
-<p>Date: Thursday October 13, 2011 7:00 PM - 9:00 PM                              <br/>
 Location: Downs 107</p>
 ]]></content>
   </entry>
