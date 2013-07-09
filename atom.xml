@@ -4,7 +4,7 @@
   <title><![CDATA[SGVLUG]]></title>
   <link href="http://sgvlug.github.com/atom.xml" rel="self"/>
   <link href="http://sgvlug.github.com/"/>
-  <updated>2013-06-12T10:55:18-07:00</updated>
+  <updated>2013-07-09T12:41:29-07:00</updated>
   <id>http://sgvlug.github.com/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -12,6 +12,22 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Distributed Version Control &amp; Mercurial]]></title>
+    <link href="http://sgvlug.github.com/2013/07/09/distributed-version-control-and-mercurial/"/>
+    <updated>2013-07-09T12:37:00-07:00</updated>
+    <id>http://sgvlug.github.com/2013/07/09/distributed-version-control-and-mercurial</id>
+    <content type="html"><![CDATA[<p>Lan will talk about distributed version control systems (DVCS) with a focus on Mercurial. The talk will be suitable for both beginners and advanced users.</p>
+
+<p>She will go over the basic concept behind DVCS, such as directed acyclic graphs. She will highlight some of the differences between Mercurial and git, the other popular DVCS. For the beginners, she will go over some basic Mercurial commands. For the advanced users, she will share some interesting case studies from work.</p>
+
+<p><strong>Speaker</strong>: Lan Dang <br />
+<strong>Date</strong>: Thursday, June 13th, 2013 @ 7 pm <br/>
+<strong>Location</strong>: Caltech - Downs 107 <br/>
+The Downs building is across from the tennis courts on California at Arden.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Mini Discussions, Python for Scientific Computing]]></title>
@@ -424,29 +440,6 @@ have time to share more, so please feel free to bring your horror story and  <br
 what you did to resolve it.</p>
 
 <p>Date: Thursday January 12, 2012 7:00 PM - 9:00 PM                              <br/>
-Location: Downs 107</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[December 2011 Meeting]]></title>
-    <link href="http://sgvlug.github.com/2011/12/08/december-2011-meeting/"/>
-    <updated>2011-12-08T00:00:00-08:00</updated>
-    <id>http://sgvlug.github.com/2011/12/08/december-2011-meeting</id>
-    <content type="html"><![CDATA[<p>Topic: Virtual Private Servers: On a Budget</p>
-
-<p>Christefano who was going to present Redmine is unavailable so we will try to<br/>
-reschedule.</p>
-
-<p>Virtual Private Servers: On a Budget - We will discuss a class of virtual    <br/>
-private servers available at a low price point allowing individuals to get   <br/>
-many of the benefits of dedicated hardware without the cost thanks to        <br/>
-virtualization technologies and a competitive marketplace.</p>
-
-<p>James McDuffie has worked for JPL for over 10 years and has been using Linux <br/>
-since at least kernel version 1.3.</p>
-
-<p>Date: Thursday December 8, 2011 7:00 PM - 9:00 PM                              <br/>
 Location: Downs 107</p>
 ]]></content>
   </entry>
