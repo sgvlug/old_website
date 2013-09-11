@@ -4,7 +4,7 @@
   <title><![CDATA[SGVLUG]]></title>
   <link href="http://sgvlug.github.com/atom.xml" rel="self"/>
   <link href="http://sgvlug.github.com/"/>
-  <updated>2013-08-08T02:05:32-07:00</updated>
+  <updated>2013-09-10T16:10:40-07:00</updated>
   <id>http://sgvlug.github.com/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -12,6 +12,35 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Introduction to Security using Raspberry Pis]]></title>
+    <link href="http://sgvlug.github.com/2013/09/10/raspberry-pi-hack-attack/"/>
+    <updated>2013-09-10T15:49:00-07:00</updated>
+    <id>http://sgvlug.github.com/2013/09/10/raspberry-pi-hack-attack</id>
+    <content type="html"><![CDATA[<p>We will demonstrate 4 basic security topics, all using the Rasberry Pi computer.</p>
+
+<p>Topcs include:</p>
+
+<ul>
+<li>&#8220;Change Default Passwords, or Else&#8230;..if&#8221;</li>
+<li>&#8220;Clear Text Passwords and HTTP Make Jack a Sad Boy&#8221;</li>
+<li>&#8220;Cookie Stealing with Joe Blackhat&#8221;</li>
+<li>&#8220;Stack Smashing in the Real World&#8221;.</li>
+</ul>
+
+
+<p>Come to learn a taste of security, or simply enjoy the show.</p>
+
+<p>(You can also come for the cookies and/or pie, which was what the presenters demanded as a bribe.)</p>
+
+<p>Speaker: Michael Starch and Steven Doran <br/>
+Date: Thursday, September 12th, 2013 @ 7 pm <br/>
+Location: Caltech - Downs 107</p>
+
+<p><em>NOTE</em>: For those of you who skip the meeting but come to dinner, please be aware that Burger Continental has been shut down by the health department.  Even if it were to reopen in time, there have been some rumblings about picking another post-LUG dinner place.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Open Mic/Mike Night]]></title>
@@ -433,19 +462,6 @@ LiveCode Developer Conference, and MacTech where he had the distinction of   <br
 being the only presenter using Linux.</p>
 
 <p>Date: Thursday March 8, 2012 7:00 PM - 9:00 PM                                 <br/>
-Location: Downs 107</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[February 2012 Meeting]]></title>
-    <link href="http://sgvlug.github.com/2012/02/09/february-2012-meeting/"/>
-    <updated>2012-02-09T00:00:00-08:00</updated>
-    <id>http://sgvlug.github.com/2012/02/09/february-2012-meeting</id>
-    <content type="html"><![CDATA[<p>Matt Cambell and Miguel Hernandez will talk about Drupal and their experiences
-with using it to revamp the SGVLUG website.</p>
-
-<p>Date: Thursday February 9, 2012 7:00 PM - 9:00 PM                              <br/>
 Location: Downs 107</p>
 ]]></content>
   </entry>
