@@ -4,7 +4,7 @@
   <title><![CDATA[SGVLUG]]></title>
   <link href="http://sgvlug.github.com/atom.xml" rel="self"/>
   <link href="http://sgvlug.github.com/"/>
-  <updated>2013-10-21T08:42:49-07:00</updated>
+  <updated>2013-10-30T13:56:06-07:00</updated>
   <id>http://sgvlug.github.com/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -12,24 +12,6 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[BIG DATA! 24 hour near real time processing and computation for the JPL Airborne Snow Observatory]]></title>
-    <link href="http://sgvlug.github.com/2013/10/21/big-data-24-hour-near-real-time-processing-and-computation-for-the-jpl-airborne-snow-observatory/"/>
-    <updated>2013-10-21T06:24:00-07:00</updated>
-    <id>http://sgvlug.github.com/2013/10/21/big-data-24-hour-near-real-time-processing-and-computation-for-the-jpl-airborne-snow-observatory</id>
-    <content type="html"><![CDATA[<p>JPL&#8217;s Airborne Snow Observatory is an integrated imaging spectrometer and scanning LIDAR for measuring mountain snow albedo, snow depth/snow water equivalent, and ice height (once exposed), led by PI Dr. Tom Painter.  The team recently wrapped our &#8220;Snow On&#8221; campaign where over a course of 3 months, we flew the Tuolumne River Basin, Sierra Nevada, California above the O&#8217;Shaughnessy Dam of the Hetch Hetchy reservoir; focusing initial on the Tuolumne, and then moving to weekly flights over the Uncompahgre Basin, Colorado.</p>
-
-<p>To meet the needs of its customers including Water Resource managers who are keenly interested in Snow melt, the ASO team had to develop and end to end 24 hour latency capability for processing spectrometer and LIDAR data from Level 0 to Level 4 (&#8220;ish&#8221;) products. Fondly referring to these processing campaigns as &#8220;rodeos&#8221; the team rapidly constructed an open source data processing system at minimal cost and risk that not only met our processing demands, but taught the entire team many lessons about remote sensing of snow and dust properties, algorithm integration, the relationship between computer scientists, and snow hydrologist; flight and engineering teams, geographers, and most importantly lessons about camaraderie that will engender highly innovative and rapid data systems development, and quality science products for years to come.</p>
-
-<p>Chris Mattmann is the Compute Lead for the ASO project and he will humbly tell the story of the Compute processing capability on behalf of the larger team, highlighting contributions of its key members along the way</p>
-
-<p><strong>Speaker:</strong> Chris Mattman <br/>
-<strong>Date:</strong> Thursday November 14th, 2013 @ 7 pm <br/>
-<strong>Location:</strong> Caltech - TBD <br/>
-The Downs building is across from the tennis  courts on California at Arden.</p>
-]]></content>
-  </entry>
   
   <entry>
     <title type="html"><![CDATA[Using Open-Source Tools for HW/SW Development at JPL]]></title>
@@ -444,6 +426,19 @@ addresses to a central server, running on 4 AA batteries.</p>
 
 <p>Speaker: Dan Kegel <br/>
 Date: Thursday, May 10, 2012 @ 7 pm <br/>
+Location: Caltech - Downs 107</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Python Web Frameworks - Django and Pylons]]></title>
+    <link href="http://sgvlug.github.com/2012/04/12/april-2012-python-web-frameworks-django-and-pylons/"/>
+    <updated>2012-04-12T00:00:00-07:00</updated>
+    <id>http://sgvlug.github.com/2012/04/12/april-2012-python-web-frameworks-django-and-pylons</id>
+    <content type="html"><![CDATA[<p>The two dominant python-based web frameworks are Django and Pylons. They can be used to deploy web applications such as news sites, online ticket tracking systems, or wikis. An overview and comparison of Django and the recently reinvented Pylons Project will be presented. Individual dependencies of the Pylons Project will be described including the Pyramid WSGI engine, the SQLAlchemy database Object Relational Mapper (ORM), and the Mako HTML template generator. A very simple blog engine will be implemented as an instructive example.</p>
+
+<p>Speaker: Braddock Gaskill (braddock .at. braddock.com) <br/>
+Date: Thursday, April 12, 2012 @ 7 pm <br/>
 Location: Caltech - Downs 107</p>
 ]]></content>
   </entry>
