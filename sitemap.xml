@@ -423,12 +423,30 @@
         <lastmod>2013-10-30T13:32:43-07:00</lastmod>
     </url>
     <url>
+        <loc>
+            http://sgvlug.github.com/2013/10/21/big-data-24-hour-near-real-time-processing-and-computation-for-the-jpl-airborne-snow-observatory/
+        </loc>
+        <lastmod>2013-10-30T14:08:48-07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://sgvlug.github.com/2013/11/16/sgvlug-slash-sgvhak-bbq/</loc>
+        <lastmod>2014-01-06T10:01:23-08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://sgvlug.github.com/2013/11/27/github-enterprise-for-jpl/</loc>
+        <lastmod>2014-01-06T10:01:23-08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://sgvlug.github.com/2014/01/06/reorganizing-meeting/</loc>
+        <lastmod>2014-01-06T10:53:46-08:00</lastmod>
+    </url>
+    <url>
         <loc>http://sgvlug.github.com/email_no_archive.html</loc>
         <lastmod>2013-10-30T13:32:43-07:00</lastmod>
     </url>
     <url>
         <loc>http://sgvlug.github.com/archives/</loc>
-        <lastmod>2013-10-30T13:32:43-07:00</lastmod>
+        <lastmod>2014-01-06T10:53:46-08:00</lastmod>
     </url>
     <url>
         <loc>http://sgvlug.github.com/next_meeting.html</loc>
@@ -436,10 +454,10 @@
     </url>
     <url>
         <loc>http://sgvlug.github.com/</loc>
-        <lastmod>2013-10-30T13:32:43-07:00</lastmod>
+        <lastmod>2014-01-06T10:53:46-08:00</lastmod>
     </url>
     <url>
         <loc>http://sgvlug.github.com/about.html</loc>
-        <lastmod>2013-10-30T13:32:43-07:00</lastmod>
+        <lastmod>2014-01-06T10:43:43-08:00</lastmod>
     </url>
 </urlset>

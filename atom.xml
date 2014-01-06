@@ -4,7 +4,7 @@
   <title><![CDATA[SGVLUG]]></title>
   <link href="http://sgvlug.github.com/atom.xml" rel="self"/>
   <link href="http://sgvlug.github.com/"/>
-  <updated>2013-10-30T13:56:06-07:00</updated>
+  <updated>2014-01-06T11:03:47-08:00</updated>
   <id>http://sgvlug.github.com/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -12,6 +12,92 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Reorganizing Meeting]]></title>
+    <link href="http://sgvlug.github.com/2014/01/06/reorganizing-meeting/"/>
+    <updated>2014-01-06T10:03:00-08:00</updated>
+    <id>http://sgvlug.github.com/2014/01/06/reorganizing-meeting</id>
+    <content type="html"><![CDATA[<p>As of this month we are <strong>no longer meeting at Caltech</strong>. This month we are meeting at Burger Continental, not just for dinner but for the whole meeting. We will be in the back room that is on your left just as you walk in from the back parking lot. The meeting will be focused on organizing future meetings and group business. The topics for discussion are:</p>
+
+<ul>
+<li>Meeting room options</li>
+<li>Upcoming meetings</li>
+<li>Ways to promote: Meetup.com, Facebook, Twitter, etc</li>
+<li>SCALE</li>
+</ul>
+
+
+<p><strong>Date:</strong> <br/>
+Thursday January 9th, 2014 @ 7pm</p>
+
+<p><strong>Location:</strong> <br/>
+Burger Continental Back Meeting Room<br/>
+535 South Lake Avenue<br/>
+Pasadena, CA 91101<br/></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Github Enterprise for JPL]]></title>
+    <link href="http://sgvlug.github.com/2013/11/27/github-enterprise-for-jpl/"/>
+    <updated>2013-11-27T08:48:00-08:00</updated>
+    <id>http://sgvlug.github.com/2013/11/27/github-enterprise-for-jpl</id>
+    <content type="html"><![CDATA[<p>GitHub Enterprise for JPL is a new collaboration center that aims to improve the state of software development by promoting collaboration between software developers. Come hear the story behind how this new service came into being and how state-of-the-art software development tools are being promoted on the grounds of the Jet Propulsion Laboratory.</p>
+
+<p>Bio:</p>
+
+<p>David Mittman is Deputy Manager for Planning and Execution Systems at the Jet Propulsion Laboratory, where he leads the development of the Section’s portfolio of software for planning and monitoring the execution of activities on JPL’s robotic spacecraft. David has developed software and operated space flight missions for over 25 years and has recently started concentrating on modernizing the state of software development at JPL.</p>
+
+<p>Brett George is a Software Engineer in the Data Services group at the Jet Propulsion Laboratory.  Brett got his start writing instrument control and data acquisition software for neutron spectrometers at the National Institute of Standards and Technology.  Since coming to JPL, he has been part of a core group of engineers leading the research and development of cloud technology to empower missions across the lab and beyond.</p>
+
+<p>Robert Witoff is the IT Data Scientist at the NASA Jet Propulsion Laboratory and a Y Combinator startup founder.  His background includes development lead for interplanetary data visualization software and space station systems lead for the experimental OPALS laser communication satellite.  Rob is NASA’s first IT Data Scientist and his data science team is incubating solutions to Big Data problems for spacebound explorers, earthborn assets and the people that make them possible.</p>
+
+<p><strong>Speaker:</strong> David Mittman, Bret George, Robert Witoff <br/>
+<strong>Date:</strong> Thursday December 12, 2013 @ 7pm <br/>
+<strong>Location:</strong> Caltech - Downs 107. <br/>
+The Downs building is across from the tennis courts on California at Arden</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[SGVLUG/SGVHAK BBQ]]></title>
+    <link href="http://sgvlug.github.com/2013/11/16/sgvlug-slash-sgvhak-bbq/"/>
+    <updated>2013-11-16T19:32:00-08:00</updated>
+    <id>http://sgvlug.github.com/2013/11/16/sgvlug-slash-sgvhak-bbq</id>
+    <content type="html"><![CDATA[<p>You and your family are cordially invited to the SGVLUG &amp; SGVHAK potluck BBQ this Saturday, November 16th, from 1-6pm.  It will be in San Gabriel.</p>
+
+<p>This is a joint effort:
++ Steven Doran is bringing bratwurts and beer.
++ Michael Starch will be in charge of grilling.
++ Lan will be providing the venue and organizing.</p>
+
+<p>Please RSVP using the Google form: <a href="http://bit.ly/17oDrvK">http://bit.ly/17oDrvK</a></p>
+
+<p>You will receive directions to the venue after you submit the RSVP.  You can revise your RSVP at any time.  Some Google scripting magic automatically updates the RSVP with how many people are expected and what people say they are bringing.
+Obviously, the earlier you RSVP, the more accurately Lan can plan.</p>
+
+<p>Hope to see you there!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[BIG DATA! 24 hour near real time processing and computation for the JPL Airborne Snow Observatory]]></title>
+    <link href="http://sgvlug.github.com/2013/10/21/big-data-24-hour-near-real-time-processing-and-computation-for-the-jpl-airborne-snow-observatory/"/>
+    <updated>2013-10-21T06:24:00-07:00</updated>
+    <id>http://sgvlug.github.com/2013/10/21/big-data-24-hour-near-real-time-processing-and-computation-for-the-jpl-airborne-snow-observatory</id>
+    <content type="html"><![CDATA[<p>JPL&#8217;s Airborne Snow Observatory is an integrated imaging spectrometer and scanning LIDAR for measuring mountain snow albedo, snow depth/snow water equivalent, and ice height (once exposed), led by PI Dr. Tom Painter.  The team recently wrapped our &#8220;Snow On&#8221; campaign where over a course of 3 months, we flew the Tuolumne River Basin, Sierra Nevada, California above the O&#8217;Shaughnessy Dam of the Hetch Hetchy reservoir; focusing initial on the Tuolumne, and then moving to weekly flights over the Uncompahgre Basin, Colorado.</p>
+
+<p>To meet the needs of its customers including Water Resource managers who are keenly interested in Snow melt, the ASO team had to develop and end to end 24 hour latency capability for processing spectrometer and LIDAR data from Level 0 to Level 4 (&#8220;ish&#8221;) products. Fondly referring to these processing campaigns as &#8220;rodeos&#8221; the team rapidly constructed an open source data processing system at minimal cost and risk that not only met our processing demands, but taught the entire team many lessons about remote sensing of snow and dust properties, algorithm integration, the relationship between computer scientists, and snow hydrologist; flight and engineering teams, geographers, and most importantly lessons about camaraderie that will engender highly innovative and rapid data systems development, and quality science products for years to come.</p>
+
+<p>Chris Mattmann is the Compute Lead for the ASO project and he will humbly tell the story of the Compute processing capability on behalf of the larger team, highlighting contributions of its key members along the way</p>
+
+<p><strong>Speaker:</strong> Chris Mattman <br/>
+<strong>Date:</strong> Thursday November 14th, 2013 @ 7 pm <br/>
+<strong>Location:</strong> Caltech - Downs 107. <br/>
+The Downs building is across from the tennis  courts on California at Arden.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Using Open-Source Tools for HW/SW Development at JPL]]></title>
@@ -381,64 +467,6 @@ Location: Caltech - Downs 107</p>
 
 <p>Speaker: Doug Vargas <br/>
 Date: Thursday, August 9, 2012 @ 7 pm <br/>
-Location: Caltech - Downs 107</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Open Discussion]]></title>
-    <link href="http://sgvlug.github.com/2012/07/12/open-discussion/"/>
-    <updated>2012-07-12T00:00:00-07:00</updated>
-    <id>http://sgvlug.github.com/2012/07/12/open-discussion</id>
-    <content type="html"><![CDATA[<p>No scheduled speaker. Open discussion continued afterwards at Burger Continental.</p>
-
-<p>We will have a brief overview of <a href="http://git-scm.com">Git</a>.</p>
-
-<p>Speaker: You! <br/>
-Date: Thursday, July 12, 2012 @ 7 pm <br/>
-Location: Caltech - Downs 107</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Build your own cloud hosted social network with Ruby on Rails, Git and Heroku]]></title>
-    <link href="http://sgvlug.github.com/2012/06/14/cloud-hosted-social-network/"/>
-    <updated>2012-06-14T00:00:00-07:00</updated>
-    <id>http://sgvlug.github.com/2012/06/14/cloud-hosted-social-network</id>
-    <content type="html"><![CDATA[<p>Ruby on Rails is an open source framework for developing database driven websites.  Git is a source control management tool.  Heroku is web hosting in the cloud.  In this talk Homan Chou and David Ferril will give a brief overview of each of these tools and give a case study of a real
-working social network.</p>
-
-<p>Speaker: Homan Chou and David Ferril <br/>
-Date: Thursday, June 14, 2012 @ 7 pm <br/>
-Location: Caltech - Downs 107</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Rasberry Pi]]></title>
-    <link href="http://sgvlug.github.com/2012/05/10/may-2012-raspberry-pi/"/>
-    <updated>2012-05-10T00:00:00-07:00</updated>
-    <id>http://sgvlug.github.com/2012/05/10/may-2012-raspberry-pi</id>
-    <content type="html"><![CDATA[<p>The Raspberry Pi is a $35, 256MB educational computer that runs Linux.
-Dan Kegel will demonstrate how the Pi can be used as a
-simple sensor network node, reporting observed Bluetooth
-addresses to a central server, running on 4 AA batteries.</p>
-
-<p>Speaker: Dan Kegel <br/>
-Date: Thursday, May 10, 2012 @ 7 pm <br/>
-Location: Caltech - Downs 107</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Python Web Frameworks - Django and Pylons]]></title>
-    <link href="http://sgvlug.github.com/2012/04/12/april-2012-python-web-frameworks-django-and-pylons/"/>
-    <updated>2012-04-12T00:00:00-07:00</updated>
-    <id>http://sgvlug.github.com/2012/04/12/april-2012-python-web-frameworks-django-and-pylons</id>
-    <content type="html"><![CDATA[<p>The two dominant python-based web frameworks are Django and Pylons. They can be used to deploy web applications such as news sites, online ticket tracking systems, or wikis. An overview and comparison of Django and the recently reinvented Pylons Project will be presented. Individual dependencies of the Pylons Project will be described including the Pyramid WSGI engine, the SQLAlchemy database Object Relational Mapper (ORM), and the Mako HTML template generator. A very simple blog engine will be implemented as an instructive example.</p>
-
-<p>Speaker: Braddock Gaskill (braddock .at. braddock.com) <br/>
-Date: Thursday, April 12, 2012 @ 7 pm <br/>
 Location: Caltech - Downs 107</p>
 ]]></content>
   </entry>
